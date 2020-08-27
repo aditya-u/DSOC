@@ -33,7 +33,7 @@
   <p align="center">
     An blockchain solution to the healthcare sector.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>See the ppt</strong></a>
+    <a href="https://github.com/aditya-u/DSOC/docs/DSOC_v3.pdf"><strong>See the ppt</strong></a>
     <br />
     <br />
   </p>
