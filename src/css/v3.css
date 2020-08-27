@@ -1,0 +1,125 @@
+body{
+  padding: 10px;
+  background-color: black;
+
+}
+
+/* .container{
+  padding: 10px;
+  margin: 10px
+} */
+.navbar{
+  font-family: 'Roboto Slab', serif;
+  font-size: 15px;
+}
+.intro{
+  font-family: 'Roboto Slab', serif;
+  align-items: center;
+  font-size: 15px;
+  background-color: #d8d3cd;
+
+  padding: 3rem 5rem 2rem 5rem;
+  margin: 10px;
+}
+.introLeft{
+  text-align: center;
+
+  margin: 10px;
+  padding: 5px;;
+
+  font-size: 2rem;
+}
+.introRight{
+  padding: 20px;
+  font-size: 1rem;
+
+}
+
+.car{
+  text-align: center;
+  margin: auto;
+  background-color: black;
+}
+label{
+  margin-right: 10px;
+}
+
+.mid{
+  background-color: #797a7e;
+  padding: 1rem 5rem 2rem 5rem;
+  margin: 10px;
+}
+
+.instructions{
+  background-color: #d8d3cd;
+  padding: 3rem 5rem 2rem 5rem;
+  margin: 20px;
+  font-family: 'Roboto', sans-serif;
+  align-content: center;
+
+}
+
+.about{
+  background-color: #222831;
+  color: white;
+  font-family: 'Roboto Slab', serif;
+  padding: 3rem 5rem 2rem 5rem;
+  margin: 10px;
+
+}
+
+.content{
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 3rem 5rem 2rem 5rem;
+  background-color: #797a7e;
+  font-family: 'Roboto', sans-serif;
+  font-weight:200;
+  font-size: 1.5rem;
+
+
+}
+
+.update{
+  background-color: #797a7e;
+
+  padding : 10px;
+  margin: 10px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5rem;
+  font-weight:200;
+
+
+
+
+}
+
+.inp{
+  width: auto;
+}
+
+h2{
+  font-family: 'Roboto Slab', serif;
+  font-size: 2rem;
+  text-align:center;
+  font-weight: bold;
+
+}
+
+.card{
+  /* margin: 5px; */
+  padding: 10px;
+  background-color: #d8d3cd;
+  color: white;
+}
+
+.outer{
+  background-color: #797a7e;
+
+}
+
+input{
+  color: black;
+}
