@@ -112,11 +112,11 @@ npm run dev
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-<video width="320" height="240" controls>
-  <source src="docs/DSOC.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+### Connecting 
+![Alt Text](https://github.com/aditya-u/DSOC/blob/master/docs/ezgif.com-video-to-gif.gif)
+
+### Adding and removing records
+![Alt Text](https://github.com/aditya-u/DSOC/blob/master/docs/ezgif.com-video-to-gif%20(1).gif)
 
 
 
