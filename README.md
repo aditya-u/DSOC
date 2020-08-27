@@ -69,13 +69,14 @@ The simple act of having the cases in a decentralised network has a large scale 
 Simplicity at it's best.
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section lists all major frameworks used.
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 * [Node](https://nodejs.org/en/)
 * [Ethereum](https://ethereum.org/en/)
 * [Elastos](https://www.elastos.org/)
-
+* [Truffle]
+* [Web3.js]
 
 
 
