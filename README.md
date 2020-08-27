@@ -113,8 +113,12 @@ npm run dev
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<video width="320" height="240" controls>
+  <source src="docs/DSOC.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
