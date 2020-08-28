@@ -75,8 +75,8 @@ This section lists all major frameworks used.
 * [Node](https://nodejs.org/en/)
 * [Ethereum](https://ethereum.org/en/)
 * [Elastos](https://www.elastos.org/)
-* [Truffle]
-* [Web3.js]
+* [Truffle](https://www.trufflesuite.com/)
+* [Web3.js](https://web3js.readthedocs.io/en/v1.2.11/)
 
 
 
