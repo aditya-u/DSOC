@@ -50,7 +50,7 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-* [Contact](#contact)
+
 
 
 
